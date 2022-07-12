@@ -24,7 +24,6 @@
 				<input class="form-control" type="text" name= "txtnom" placeholder="Ingrese Nombres">
 			</div>
 			
-			
 			<div class="form-group">
 				<label>Email:</label>
 				<input type="email" name= "txtemail" placeholder="ejemplo@gmail.com" class="form-control">
@@ -32,7 +31,7 @@
 			
 				<input class="btn btn-danger btn-block" type="submit" name="accion" value="Ingresar">
 	
-	</form>
+		</form>
 	
 	</div>
 
